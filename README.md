@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+
+I am a research nerd passionate about solving problems using data science. I am trained as an environmental scientist, and love all things related to open-source and accessible science, data management, and data analysis. 
+
+[LinkedIn](https://www.linkedin.com/in/jacqui-levy-353208a2/)
 
 <!--
 **Jacqui-123/Jacqui-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
