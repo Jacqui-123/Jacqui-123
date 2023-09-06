@@ -5,13 +5,14 @@ I am a research nerd passionate about solving problems using data science. I am 
 I work on environmental flows (eflows) assessment projects with Environment and Climate Change Canada, to understand how much water within a river system is needed to maintain the ecosystem and provide benefits for people. I am currently working on building an R package to calculate ice variables in Canadian Arctic rivers, to help scientists to be able to assess how ice coverage in these rivers is changing over time. 
 
 Examples of past and current projects:
+
 [R Package in Development: Icicle](https://rpubs.com/Jacqui-123/1056683)
 
 [Analysis of Ice Cycle Variables](https://rpubs.com/Jacqui-123/1045987)
 
 [Hydrological Station Data Availability](https://rpubs.com/Jacqui-123/1045877)
 
-Learn more or connect with me through [LinkedIn](https://www.linkedin.com/in/jacqui-levy-353208a2/)
+Learn more about me or connect on [LinkedIn](https://www.linkedin.com/in/jacqui-levy-353208a2/)
 
 <!--
 **Jacqui-123/Jacqui-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
