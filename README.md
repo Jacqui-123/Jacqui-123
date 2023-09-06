@@ -6,7 +6,9 @@ I work on environmental flows (eflows) assessment projects with Environment and 
 
 Examples of past and current projects:
 [R Package in Development: Icicle](https://rpubs.com/Jacqui-123/1056683)
+
 [Analysis of Ice Cycle Variables](https://rpubs.com/Jacqui-123/1045987)
+
 [Hydrological Station Data Availability](https://rpubs.com/Jacqui-123/1045877)
 
 Learn more or connect with me through [LinkedIn](https://www.linkedin.com/in/jacqui-levy-353208a2/)
