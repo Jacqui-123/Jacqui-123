@@ -8,7 +8,7 @@ Examples of past and current projects:
 
 [R Package in Development: Icicle](https://rpubs.com/Jacqui-123/1056683)
 
-[Analysis of Ice Cycle Variables](https://rpubs.com/Jacqui-123/1045987)
+[Ice Cycles in Northern Rivers](https://rpubs.com/Jacqui-123/1093734)
 
 [Hydrological Station Data Availability](https://rpubs.com/Jacqui-123/1045877)
 
